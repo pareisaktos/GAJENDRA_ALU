@@ -29,13 +29,10 @@ Create a CircuitVerse account for saving the file for later use your personal id
 <!-- MUST READ -->
 ## CircuitVerse file
 
-The design can be obtained by clicking on the CIRCUITVERSE_FILE
-
--  [CIRCUITVERSE_FILE](https://circuitverse.org/users/187910/projects/gajendra_alu_processor)
+The design can be obtained from the ALU folder
 
 
 ## MUST READ
 
 Also ,Make sure to read both file from the helperfile.The detailed explanation of each components used in the circuit is given in Guide.pdf .
 
-- [Helperfile](https://drive.google.com/drive/u/0/folders/1uQy90qzinPCXQXH74__TZHPx1sOrqP_X)
