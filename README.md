@@ -29,7 +29,7 @@ Create a CircuitVerse account for saving the file for later use your personal id
 <!-- MUST READ -->
 ## CircuitVerse file
 
-The design can be obtained from the ALU folder
+The design can be obtained from the ALU folder and import this .cv file in the CircuitVerse
 
 
 ## MUST READ
